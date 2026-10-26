@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/dba552d3-1dcc-4edd-b1ca-6949448ce994" /># Projek-ansi
+# Projek-ansi
 SISTEM PENJUALAN BUKU (E-BOOK ) GALAXY BOOKSHOP
 
 ## 🎨 Design Figma
