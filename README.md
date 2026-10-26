@@ -1,4 +1,4 @@
-# Projek-ansi
+# Projek-Sistem Informasi
 SISTEM PENJUALAN BUKU (E-BOOK ) GALAXY BOOKSHOP
 
 ## 🎨 Design Figma
